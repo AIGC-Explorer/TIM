@@ -9,7 +9,7 @@
 ## Citation	
 
 ```
-@article{hu2023animateanyone,
+@article{wang2024tim,
   title={Temporal and Interactive Modeling for Efficient Human-Human Motion Generation},
   author={Yabiao Wang and Shuo Wang and Jiangning Zhang and Ke Fan and Jiafu Wu and Zhengkai Jiang and Yong Liu},
   journal={arXiv preprint arXiv:2405.15763},
